@@ -1,4 +1,4 @@
-file_path = "C:\Users\maksb\PycharmProjects\pythonProject\text.py"
+file_path = "C:\Users\maksb\PycharmProjects\pythonProject\main.py"
 if exists(file_path):
     print("Файл существует")
 else:
